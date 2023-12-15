@@ -1,0 +1,298 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="datos.conn" Collapsed="true">
+    <Position X="16.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAIAAABAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>conn.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="datos.ejecutar_procedimientos__almacenados" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAgAAAAAAAA=</HashCode>
+      <FileName>ejecutar_procedimientos _almacenados.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="datos.ActualizarConfigSis" Collapsed="true">
+    <Position X="9.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Login\ActualizarConfigSis.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="datos.ObtenerConfigSis" Collapsed="true">
+    <Position X="14" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Login\ObtenerConfigSis.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="datos.obtenerDatosU" Collapsed="true">
+    <Position X="18.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Login\obtenerDatosU.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="datos.ObtenerPreguntaSeg" Collapsed="true">
+    <Position X="25.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Login\ObtenerPreguntaSeg.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="datos.obtenerusuarios" Collapsed="true">
+    <Position X="29.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Login\obtenerusuarios.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="datos.mostrarLocalidad" Collapsed="true">
+    <Position X="36.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>procedimientos_almacenados\mostrarLocalidad.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="datos.ActualizarContraseñas" Collapsed="true">
+    <Position X="5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>procedimientos_almacenados\users\ActualizarCotraseñas.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="datos.ActualizarDatosU" Collapsed="true">
+    <Position X="11.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>procedimientos_almacenados\users\ActualizarDatosU.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="datos.ActualizarPreguntasSeg" Collapsed="true">
+    <Position X="16.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>procedimientos_almacenados\users\ActualizarPreguntasSeg.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="datos.AgregarUsuario" Collapsed="true">
+    <Position X="20.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>procedimientos_almacenados\users\AgregarUsuario.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="datos.BorrarInfoPersonal" Collapsed="true">
+    <Position X="27.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>procedimientos_almacenados\users\BorrarInfoPersonal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="datos.consultarlogueod" Collapsed="true">
+    <Position X="32" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>procedimientos_almacenados\users\consultarlogueod.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="datos.ConsultarPreguntasSeg" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>procedimientos_almacenados\users\ConsultarPreguntasSeg.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="datos.consultarUsuario" Collapsed="true">
+    <Position X="7.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>procedimientos_almacenados\users\consultarUsuario.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="datos.procedimientos_almacenados.Articulos" Collapsed="true">
+    <Position X="34.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQQAAAACAAAIAAAAIAAAAAAQAAAAAAQAAACAAAAA=</HashCode>
+      <FileName>procedimientos_almacenados\Articulos.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="datos.procedimientos_almacenados.Categoria" Collapsed="true">
+    <Position X="36.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABQACAIAAABAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>procedimientos_almacenados\Categoria.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="datos.procedimientos_almacenados.Cliente" Collapsed="true">
+    <Position X="38" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAAAACAAAAAAAACAQAAAAAAAAAAAIAABA=</HashCode>
+      <FileName>procedimientos_almacenados\Cliente.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="datos.procedimientos_almacenados.insertar_Ordendecompra" Collapsed="true">
+    <Position X="39.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>procedimientos_almacenados\ingreso\insertar_Ordendecompra.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="datos.procedimientos_almacenados.mostrarOrdendecompra" Collapsed="true">
+    <Position X="38" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>procedimientos_almacenados\ingreso\mostrarOrdendecompra.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="datos.procedimientos_almacenados.buscarProveedorNumDocumento" Collapsed="true">
+    <Position X="41.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>procedimientos_almacenados\proveedor\buscarProveedorNumDocumento.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="datos.procedimientos_almacenados.buscarProveedorRazonSocial" Collapsed="true">
+    <Position X="43.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>procedimientos_almacenados\proveedor\buscarProveedorRazonSocial.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="datos.procedimientos_almacenados.editarProveedor" Collapsed="true">
+    <Position X="39.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>procedimientos_almacenados\proveedor\editarProveedor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="datos.procedimientos_almacenados.eliminarProveedor" Collapsed="true">
+    <Position X="34.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>procedimientos_almacenados\proveedor\eliminarProveedor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="datos.procedimientos_almacenados.insertarProveedor" Collapsed="true">
+    <Position X="41.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>procedimientos_almacenados\proveedor\insertarProveedor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="datos.procedimientos_almacenados.mostrarProveedor" Collapsed="true">
+    <Position X="41.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>procedimientos_almacenados\proveedor\mostrarProveedor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="datos.procedimientos_almacenados.buscarTrabajadorNumDocumento" Collapsed="true">
+    <Position X="34.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>procedimientos_almacenados\users\buscarTrabajadorNumDocumento.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="datos.procedimientos_almacenados.editarUsers" Collapsed="true">
+    <Position X="41.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>procedimientos_almacenados\users\editarUsers.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="datos.procedimientos_almacenados.mostrarTrabajador" Collapsed="true">
+    <Position X="43.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>procedimientos_almacenados\users\mostrarTrabajador.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="datos.procedimientos_almacenados.eliminarVenta" Collapsed="true">
+    <Position X="36.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>procedimientos_almacenados\venta\eliminarVenta.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="datos.procedimientos_almacenados.insertarVenta" Collapsed="true">
+    <Position X="43.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>procedimientos_almacenados\venta\insertarVenta.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="datos.procedimientos_almacenados.mostrarVenta" Collapsed="true">
+    <Position X="34.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>procedimientos_almacenados\venta\mostrarVenta.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="datos.procedimientos_almacenados.ingreso.Buscar_Ingreso_Fecha" Collapsed="true">
+    <Position X="36.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>procedimientos_almacenados\ingreso\Buscar_Ingreso_Fecha.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="datos.procedimientos_almacenados.ingreso.Buscar_ordendecompra_Fecha" Collapsed="true">
+    <Position X="38" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>procedimientos_almacenados\ingreso\Buscar_ordendecompra_Fecha.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="datos.procedimientos_almacenados.ingreso.eliminarOrdendecompra" Collapsed="true">
+    <Position X="43.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>procedimientos_almacenados\ingreso\eliminarOrdendecompra.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="datos.procedimientos_almacenados.ingreso.insertar_ingreso" Collapsed="true">
+    <Position X="38" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>procedimientos_almacenados\ingreso\insertar_ingreso.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="datos.procedimientos_almacenados.ingreso.mostrar_Ingreso" Collapsed="true">
+    <Position X="34.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>procedimientos_almacenados\ingreso\mostrar_Ingreso.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="datos.procedimientos_almacenados.proveedor.validarproveedor" Collapsed="true">
+    <Position X="36.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>procedimientos_almacenados\proveedor\validarproveedor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="datos.consultar.ConsultarContraseñasRep" Collapsed="true">
+    <Position X="23" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>procedimientos_almacenados\users\ConsultarContraseñasRep.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="datos.procedimientos_almacenados.venta.Buscar_Venta_Fecha" Collapsed="true">
+    <Position X="39.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>procedimientos_almacenados\venta\Buscar_Venta_Fecha.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="datos.procedimientos_almacenados.venta.MostrarPrecio" Collapsed="true">
+    <Position X="39.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>procedimientos_almacenados\venta\MostrarPrecio.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

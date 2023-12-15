@@ -1,0 +1,585 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="logica.ActualizarConfiguracionSis" Collapsed="true">
+    <Position X="47.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Login\ActualizarConfiguracionSis.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="logica.creardt" Collapsed="true">
+    <Position X="52" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Login\creardt.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="logica.ObtenerConfigSis" Collapsed="true">
+    <Position X="52" Y="12" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Login\ObtenerConfigSis.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="logica.ObtenerDatos" Collapsed="true">
+    <Position X="53.75" Y="12" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Login\ObtenerDatos.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="logica.ObtenerPreguntasseg" Collapsed="true">
+    <Position X="55.5" Y="12" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Login\ObtenerPreguntasseg.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="logica.ValidarContraseña" Collapsed="true">
+    <Position X="52" Y="14.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAA=</HashCode>
+      <FileName>Login\ValidarContraseña.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="logica.MostrarLocalidad" Collapsed="true">
+    <Position X="47.25" Y="15" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>sistema\MostrarLocalidad.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="logica.ActualizarDatosu" Collapsed="true">
+    <Position X="47.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>sistema\users\ActualizarDatosu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="logica.ActualizarPassword" Collapsed="true">
+    <Position X="47.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAA=</HashCode>
+      <FileName>sistema\users\ActualizarPassword.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="logica.ActualizarPreguntasseg" Collapsed="true">
+    <Position X="47.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAA=</HashCode>
+      <FileName>sistema\users\ActualizarPreguntasseg.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="logica.BorrarinfoPersonal" Collapsed="true">
+    <Position X="64.75" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAA=</HashCode>
+      <FileName>sistema\users\BorrarinfoPersonal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="logica.consultarlogueo" Collapsed="true">
+    <Position X="53.75" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>sistema\users\consultarlogueo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="logica.ConsultarPreguntasseg" Collapsed="true">
+    <Position X="53.75" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>sistema\users\ConsultarPreguntasseg.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="logica.CrearUsuario" Collapsed="true">
+    <Position X="52" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAEAAAAAA=</HashCode>
+      <FileName>sistema\users\CrearUsuario.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="logica.UsuarioValidator" Collapsed="true">
+    <Position X="59" Y="12" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>sistema\users\UsuarioValidator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="logica.validarUsuarioExistente" Collapsed="true">
+    <Position X="55.5" Y="14.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>sistema\users\validarUsuarioExistente.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="logica.sistema.articulos.AvisoStock" Collapsed="true">
+    <Position X="52" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>sistema\articulos\AvisoStock.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="logica.sistema.BuscarArticulosNombre" Collapsed="true">
+    <Position X="60" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>sistema\articulos\BuscarArticulosNombre.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="logica.sistema.MostrarArticulo" Collapsed="true">
+    <Position X="45.5" Y="15.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>sistema\articulos\MostrarArticulo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="logica.sistema.StockArticulo" Collapsed="true">
+    <Position X="57.25" Y="12" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>sistema\articulos\StockArticulo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="logica.sistema.carritoconfig" Collapsed="true">
+    <Position X="48.75" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAQAAAAAAAAABAAAAAEAAAgAAIAAAAAAAAgAAA=</HashCode>
+      <FileName>sistema\carritoconfig.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="logica.sistema.BuscarCategoria" Collapsed="true">
+    <Position X="40.75" Y="10.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>sistema\categoria\BuscarCategoria.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="logica.sistema.MostrarCategoria" Collapsed="true">
+    <Position X="38.5" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>sistema\categoria\MostrarCategoria.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="logica.sistema.BuscarClienteNumDocumento" Collapsed="true">
+    <Position X="60" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>sistema\cliente\BuscarClienteNumDocumento.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="logica.sistema.MostrarCliente" Collapsed="true">
+    <Position X="47.25" Y="14.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>sistema\cliente\MostrarCliente.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="logica.sistema.carritoIngreso" Collapsed="true">
+    <Position X="48.75" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>sistema\ingreso\carritoIngreso.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="logica.sistema.MostrarOrdendecompra" Collapsed="true">
+    <Position X="47.25" Y="15.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>sistema\ingreso\MostrarOrdendecompra.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="logica.sistema.BuscarProveedorNumDocumento" Collapsed="true">
+    <Position X="40" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>sistema\proveedor\BuscarProveedorNumDocumento.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="logica.sistema.BuscarProveedorRazonSocial" Collapsed="true">
+    <Position X="40" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>sistema\proveedor\BuscarProveedorRazonSocial.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="logica.sistema.MostrarProveedor" Collapsed="true">
+    <Position X="40" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>sistema\proveedor\MostrarProveedor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="logica.sistema.BuscarTrabajadorNumDocumento" Collapsed="true">
+    <Position X="53.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>sistema\users\BuscarTrabajadorNumDocumento.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="logica.sistema.MostrarTrabajador" Collapsed="true">
+    <Position X="53.75" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>sistema\users\MostrarTrabajador.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="logica.sistema.MostrarVenta" Collapsed="true">
+    <Position X="42.75" Y="12.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>sistema\venta\MostrarVenta.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="logica.sistema.modificacion.EditarArticulo" Collapsed="true">
+    <Position X="45.75" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAA=</HashCode>
+      <FileName>sistema\articulos\EditarArticulo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="logica.sistema.modificacion.Editar_Categoria" Collapsed="true">
+    <Position X="38.5" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAA=</HashCode>
+      <FileName>sistema\categoria\Editar_Categoria.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="logica.sistema.modificacion.EditarCliente" Collapsed="true">
+    <Position X="45.75" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAA=</HashCode>
+      <FileName>sistema\cliente\EditarCliente.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="logica.sistema.modificacion.EditarProveedor" Collapsed="true">
+    <Position X="40" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAA=</HashCode>
+      <FileName>sistema\proveedor\EditarProveedor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="logica.sistema.modificacion.EditarUsers" Collapsed="true">
+    <Position X="45.75" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAA=</HashCode>
+      <FileName>sistema\users\EditarUsers.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="logica.sistema.baja.EliminarArticulo" Collapsed="true">
+    <Position X="64.75" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>sistema\articulos\EliminarArticulo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="logica.sistema.baja.EliminarCategoria" Collapsed="true">
+    <Position X="64.75" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>sistema\categoria\EliminarCategoria.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="logica.sistema.baja.EliminarCliente" Collapsed="true">
+    <Position X="64.75" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>sistema\cliente\EliminarCliente.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="logica.sistema.baja.EliminarProveedor" Collapsed="true">
+    <Position X="40" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>sistema\proveedor\EliminarProveedor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="logica.sistema.baja.EliminarVenta" Collapsed="true">
+    <Position X="42.75" Y="13" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>sistema\venta\EliminarVenta.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="logica.sistema.alta.InsertarArticulo" Collapsed="true">
+    <Position X="59.75" Y="14" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>sistema\articulos\InsertarArticulo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="logica.sistema.alta.InsertarCategoria" Collapsed="true">
+    <Position X="40.75" Y="11" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>sistema\categoria\InsertarCategoria.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="logica.sistema.alta.InsertarCliente" Collapsed="true">
+    <Position X="59.75" Y="15.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>sistema\cliente\InsertarCliente.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="logica.sistema.alta.InsertarProveedor" Collapsed="true">
+    <Position X="40" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>sistema\proveedor\InsertarProveedor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="logica.sistema.alta.InsertarVenta" Collapsed="true">
+    <Position X="42.75" Y="13.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>sistema\venta\InsertarVenta.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="logica.sistema.cliente.ValidarCliente" Collapsed="true">
+    <Position X="57.25" Y="14.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>sistema\cliente\ValidarCliente.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="logica.sistema.ingreso.buscar_Ingreso_Fecha" Collapsed="true">
+    <Position X="57" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>sistema\ingreso\buscar_Ingreso_Fecha.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="logica.sistema.ingreso.Buscar_ordendecompra_fecha" Collapsed="true">
+    <Position X="60" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>sistema\ingreso\Buscar_ordendecompra_fecha.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="logica.sistema.ingreso.EliminarOrdendecompra" Collapsed="true">
+    <Position X="64.75" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>sistema\ingreso\EliminarOrdendecompra.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="logica.sistema.ingreso.Insertar_Ingreso" Collapsed="true">
+    <Position X="59.75" Y="13.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>sistema\ingreso\Insertar_Ingreso.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="logica.sistema.ingreso.Mostrar_Ingreso" Collapsed="true">
+    <Position X="45.5" Y="14.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>sistema\ingreso\Mostrar_Ingreso.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="logica.sistema.proveedor.ValidarProveedor" Collapsed="true">
+    <Position X="40" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>sistema\proveedor\ValidarProveedor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="logica.consultar.ConsultarContraseñasRepetidas" Collapsed="true">
+    <Position X="53.75" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>sistema\users\ConsultarContraseñasRepetidas.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="logica.sistema.venta.Buscar_venta_fecha" Collapsed="true">
+    <Position X="60" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>sistema\venta\Buscar_venta_fecha.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="logica.sistema.venta.carritoVenta" Collapsed="true">
+    <Position X="48.75" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>sistema\venta\carritoVenta.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="logica.sistema.venta.mostrarPrecio" Collapsed="true">
+    <Position X="45.5" Y="13.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>sistema\venta\mostrarPrecio.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="datos.conn" Collapsed="true">
+    <Position X="16.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="datos.ejecutar_procedimientos__almacenados" Collapsed="true">
+    <Position X="2.75" Y="2" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="datos.ActualizarConfigSis" Collapsed="true">
+    <Position X="9.5" Y="2" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="datos.ObtenerConfigSis" Collapsed="true">
+    <Position X="14" Y="2" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="datos.obtenerDatosU" Collapsed="true">
+    <Position X="18.5" Y="2" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="datos.ObtenerPreguntaSeg" Collapsed="true">
+    <Position X="25.25" Y="2" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="datos.obtenerusuarios" Collapsed="true">
+    <Position X="29.75" Y="2" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="datos.mostrarLocalidad" Collapsed="true">
+    <Position X="57" Y="2.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="datos.ActualizarContraseñas" Collapsed="true">
+    <Position X="5" Y="2" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="datos.ActualizarDatosU" Collapsed="true">
+    <Position X="11.75" Y="2" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="datos.ActualizarPreguntasSeg" Collapsed="true">
+    <Position X="16.25" Y="2" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="datos.AgregarUsuario" Collapsed="true">
+    <Position X="20.75" Y="2" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="datos.BorrarInfoPersonal" Collapsed="true">
+    <Position X="27.5" Y="2" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="datos.consultarlogueod" Collapsed="true">
+    <Position X="32" Y="2" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="datos.ConsultarPreguntasSeg" Collapsed="true">
+    <Position X="0.5" Y="2" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="datos.consultarUsuario" Collapsed="true">
+    <Position X="7.25" Y="2" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="datos.procedimientos_almacenados.Articulos" Collapsed="true">
+    <Position X="49.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="datos.procedimientos_almacenados.Categoria" Collapsed="true">
+    <Position X="40.75" Y="9.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="datos.procedimientos_almacenados.Cliente" Collapsed="true">
+    <Position X="57" Y="0.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="datos.procedimientos_almacenados.insertar_Ordendecompra" Collapsed="true">
+    <Position X="43.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="datos.procedimientos_almacenados.mostrarOrdendecompra" Collapsed="true">
+    <Position X="57" Y="3.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="datos.procedimientos_almacenados.buscarProveedorNumDocumento" Collapsed="true">
+    <Position X="38.25" Y="3" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="datos.procedimientos_almacenados.buscarProveedorRazonSocial" Collapsed="true">
+    <Position X="38.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="datos.procedimientos_almacenados.editarProveedor" Collapsed="true">
+    <Position X="38.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="datos.procedimientos_almacenados.eliminarProveedor" Collapsed="true">
+    <Position X="38.25" Y="5.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="datos.procedimientos_almacenados.insertarProveedor" Collapsed="true">
+    <Position X="38.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="datos.procedimientos_almacenados.mostrarProveedor" Collapsed="true">
+    <Position X="38.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="datos.procedimientos_almacenados.buscarTrabajadorNumDocumento" Collapsed="true">
+    <Position X="52" Y="4.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="datos.procedimientos_almacenados.editarUsers" Collapsed="true">
+    <Position X="64.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="datos.procedimientos_almacenados.mostrarTrabajador" Collapsed="true">
+    <Position X="52" Y="5.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="datos.procedimientos_almacenados.eliminarVenta" Collapsed="true">
+    <Position X="41" Y="12.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="datos.procedimientos_almacenados.insertarVenta" Collapsed="true">
+    <Position X="41" Y="13" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="datos.procedimientos_almacenados.mostrarVenta" Collapsed="true">
+    <Position X="57" Y="6.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="datos.procedimientos_almacenados.ingreso.Buscar_Ingreso_Fecha" Collapsed="true">
+    <Position X="49.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="datos.procedimientos_almacenados.ingreso.Buscar_ordendecompra_Fecha" Collapsed="true">
+    <Position X="49.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="datos.procedimientos_almacenados.ingreso.eliminarOrdendecompra" Collapsed="true">
+    <Position X="55.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="datos.procedimientos_almacenados.ingreso.insertar_ingreso" Collapsed="true">
+    <Position X="43.75" Y="2" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="datos.procedimientos_almacenados.ingreso.mostrar_Ingreso" Collapsed="true">
+    <Position X="57" Y="1.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="datos.procedimientos_almacenados.proveedor.validarproveedor" Collapsed="true">
+    <Position X="38.25" Y="6" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="datos.consultar.ConsultarContraseñasRep" Collapsed="true">
+    <Position X="23" Y="2" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="datos.procedimientos_almacenados.venta.Buscar_Venta_Fecha" Collapsed="true">
+    <Position X="41" Y="13.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="datos.procedimientos_almacenados.venta.MostrarPrecio" Collapsed="true">
+    <Position X="57" Y="4" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{4CA2578F-2721-451A-80C3-86FAB13D7430}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>datos</RootNamespace>
+    <AssemblyName>datos</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <UseVSHostingProcess>true</UseVSHostingProcess>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ejecutar_procedimientos _almacenados.cs" />
+    <Compile Include="procedimientos_almacenados\Articulos.cs" />
+    <Compile Include="procedimientos_almacenados\Categoria.cs" />
+    <Compile Include="procedimientos_almacenados\Cliente.cs" />
+    <Compile Include="procedimientos_almacenados\ingreso\Buscar_Ingreso_Fecha.cs" />
+    <Compile Include="procedimientos_almacenados\ingreso\Buscar_ordendecompra_Fecha.cs" />
+    <Compile Include="procedimientos_almacenados\ingreso\eliminarOrdendecompra.cs" />
+    <Compile Include="procedimientos_almacenados\ingreso\insertar_ingreso.cs" />
+    <Compile Include="procedimientos_almacenados\ingreso\mostrar_Ingreso.cs" />
+    <Compile Include="procedimientos_almacenados\proveedor\validarproveedor.cs" />
+    <Compile Include="procedimientos_almacenados\users\ActualizarPreguntasSeg.cs" />
+    <Compile Include="Login\ActualizarConfigSis.cs" />
+    <Compile Include="procedimientos_almacenados\users\ActualizarDatosU.cs" />
+    <Compile Include="procedimientos_almacenados\users\AgregarUsuario.cs" />
+    <Compile Include="procedimientos_almacenados\users\ActualizarCotraseñas.cs" />
+    <Compile Include="procedimientos_almacenados\users\BorrarInfoPersonal.cs" />
+    <Compile Include="conn.cs" />
+    <Compile Include="procedimientos_almacenados\users\ConsultarContraseñasRep.cs" />
+    <Compile Include="procedimientos_almacenados\users\consultarlogueod.cs" />
+    <Compile Include="procedimientos_almacenados\users\ConsultarPreguntasSeg.cs" />
+    <Compile Include="procedimientos_almacenados\users\consultarUsuario.cs" />
+    <Compile Include="Login\ObtenerPreguntaSeg.cs" />
+    <Compile Include="Login\ObtenerConfigSis.cs" />
+    <Compile Include="Login\obtenerDatosU.cs" />
+    <Compile Include="Login\obtenerusuarios.cs" />
+    <Compile Include="procedimientos_almacenados\mostrarLocalidad.cs" />
+    <Compile Include="procedimientos_almacenados\proveedor\buscarProveedorNumDocumento.cs" />
+    <Compile Include="procedimientos_almacenados\proveedor\buscarProveedorRazonSocial.cs" />
+    <Compile Include="procedimientos_almacenados\venta\Buscar_Venta_Fecha.cs" />
+    <Compile Include="procedimientos_almacenados\proveedor\editarProveedor.cs" />
+    <Compile Include="procedimientos_almacenados\users\editarUsers.cs" />
+    <Compile Include="procedimientos_almacenados\proveedor\eliminarProveedor.cs" />
+    <Compile Include="procedimientos_almacenados\venta\eliminarVenta.cs" />
+    <Compile Include="procedimientos_almacenados\ingreso\insertar_Ordendecompra.cs" />
+    <Compile Include="procedimientos_almacenados\proveedor\insertarProveedor.cs" />
+    <Compile Include="procedimientos_almacenados\venta\insertarVenta.cs" />
+    <Compile Include="procedimientos_almacenados\ingreso\mostrarOrdendecompra.cs" />
+    <Compile Include="procedimientos_almacenados\proveedor\mostrarProveedor.cs" />
+    <Compile Include="procedimientos_almacenados\venta\MostrarPrecio.cs" />
+    <Compile Include="procedimientos_almacenados\venta\mostrarVenta.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\comun\comun.csproj">
+      <Project>{ce9e512b-88f1-48b9-8ac2-8e515fb87444}</Project>
+      <Name>comun</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\servicios\servicios.csproj">
+      <Project>{a57eb5b3-4315-40a6-857b-c93f01777ec9}</Project>
+      <Name>servicios</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
