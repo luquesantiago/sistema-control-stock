@@ -28,7 +28,7 @@ C# · .NET Framework 4.7.2 · WinForms · SQL Server · ADO.NET
 ## Ejecutar
 
 1. Abrir `Login.sln` en Visual Studio
-2. Crear la base `dbventas` en SQL Server y ajustar la cadena de conexión en `datos/conn.cs`
+2. Crear la base `dbventas` en SQL Server y ajustar la cadena de conexión `dbventas` en `Login/App.config`
 3. Compilar y ejecutar el proyecto `Login`
 
 > El script de creación de la base de datos está pendiente de publicación.
