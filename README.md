@@ -28,7 +28,9 @@ C# · .NET Framework 4.7.2 · WinForms · SQL Server · ADO.NET
 ## Ejecutar
 
 1. Abrir `Login.sln` en Visual Studio
-2. Crear la base `dbventas` en SQL Server y ajustar la cadena de conexión `dbventas` en `Login/App.config`
+2. Ejecutar `dbventas.sql` en SQL Server (SSMS) para crear la base con datos de prueba, y ajustar la cadena de conexión `dbventas` en `Login/App.config`
 3. Compilar y ejecutar el proyecto `Login`
 
-> El script de creación de la base de datos está pendiente de publicación.
+> **Usuarios de prueba** (contraseña `1234`): `admin` (acceso completo) y `empleado` (módulo de compras).
+>
+> El script `dbventas.sql` fue reconstruido a partir del backup original del proyecto: los cuerpos de los procedimientos provienen del `Sistema.bak` histórico y las tablas se derivaron de sus consultas. Los procedimientos que estaban truncados en el backup están marcados como `[RECONSTRUIDO]`.
